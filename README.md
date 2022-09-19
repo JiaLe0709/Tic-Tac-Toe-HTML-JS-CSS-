@@ -23,3 +23,6 @@
  This game is for noob or age (-3 - <3)
  
  ![images](https://github.com/JiaLe0709/Tic-Tac-Toe-HTML-JS-CSS-/blob/Master-Jia_Le/troll.png)
+
+# Link For Result :
+https://jiale0709.github.io/Tic-Tac-Toe-HTML-JS-CSS-/
